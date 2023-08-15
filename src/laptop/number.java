@@ -1,3 +1,4 @@
+//1.write an array of sum
 //given values
 package laptop;
 
