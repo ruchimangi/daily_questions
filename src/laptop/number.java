@@ -10,6 +10,6 @@ public class number {
 			
 		
 		System.out.println("number of elements in the array is " + arr.length);
-		
+		System.out.println("hii");
 		}
 }
