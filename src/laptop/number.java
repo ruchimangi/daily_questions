@@ -1,3 +1,4 @@
+//given values
 package laptop;
 
 public class number {
